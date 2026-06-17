@@ -387,3 +387,11 @@ word-break:normal;
 }
 
 }
+@media(max-width:480px){
+
+.hero-content h1{
+font-size:1.7rem;
+letter-spacing:0;
+}
+
+}
